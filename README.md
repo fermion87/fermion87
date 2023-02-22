@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @fermion87
-- 👀 I’m interested in web development, scientific computing and video game design.
+- 👀 I’m interested in web development, scientific computing, computer graphics, and video game design.
 - 🔴🟢🔵 I like to play with GLSL shaders.
 - 🌱 I’m currently learning JavaScript and Ruby.
 - 💞️ I’m looking to collaborate on projects in numerical relativity.
